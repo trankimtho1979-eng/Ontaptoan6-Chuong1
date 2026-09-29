@@ -1,0 +1,6 @@
+{
+  "name": "Toán 6 Phiêu Lưu Ký: Ôn Tập Chương 1 Số Tự Nhiên",
+  "description": "Trò chơi học tập ôn tập Chương 1 Toán 6 Kết nối tri thức: Số tự nhiên với trắc nghiệm sinh động, giải đố tập hợp, giải thích chi tiết và bảng xếp hạng vinh danh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
